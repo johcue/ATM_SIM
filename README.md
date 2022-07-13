@@ -1,2 +1,2 @@
-# ATM_SIM
-Automated Teller Machine 
+# Automated Teller Machine 
+
